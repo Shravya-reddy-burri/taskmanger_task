@@ -35,7 +35,7 @@ A modern task management application built with Next.js and React.
 
 
 ```shellscript
-git clone https://github.com/yourusername/taskmanger.git
+https://github.com/Shravya-reddy-burri/taskmanger_task.git
 cd taskmanger
 ```
 
