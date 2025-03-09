@@ -216,4 +216,14 @@ This project uses:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT Licen![screencapture-localhost-3000-dashboard-2025-03-09-20_20_47](https://github.com/user-attachments/assets/0e8c05c1-add5-4ee9-b41e-06ccaa1aa15e)
+![screencapture-localhost-3000-all-tasks-2025-03-09-20_21_03](https://github.com/user-attachments/assets/5ca49c56-a257-49a3-98af-4abaae6ad1b8)
+![screencapture-localhost-3000-dashboard-2025-03-09-20_22_21](https://github.com/user-attachments/assets/80263fe5-e52b-4a89-92db-708c6466605b)
+![screencapture-localhost-3000-dashboard-2025-03-09-20_22_33](https://github.com/user-attachments/assets/80334071-3f2a-4b28-8556-cb601316e342)
+![screencapture-localhost-3000-pending-tasks-2025-03-09-20_21_14](https://github.com/user-attachments/assets/a0a293a5-0a09-464c-b8d8-48794617e639)
+![screencapture-localhost-3000-completed-tasks-2025-03-09-20_21_20](https://github.com/user-attachments/assets/cece25cc-9b46-4513-b71b-5bd387628868)
+![screencapture-localhost-3000-login-2025-03-09-20_27_38](https://github.com/user-attachments/assets/5997ac98-b168-48f3-ba14-d9408101779e)
+![screencapture-localhost-3000-register-2025-03-09-20_27_51](https://github.com/user-attachments/assets/2f858449-76dd-4868-a5ba-5ebca1da0bb0)
+se - see the LICENSE file for details.
+
+
